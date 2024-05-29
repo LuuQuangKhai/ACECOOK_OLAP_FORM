@@ -1,0 +1,59 @@
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\DAO\bin\Debug\net8.0\DAO.deps.json
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\DAO\bin\Debug\net8.0\DAO.dll
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\DAO\bin\Debug\net8.0\DAO.pdb
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\DAO\obj\Debug\net8.0\DAO.GeneratedMSBuildEditorConfig.editorconfig
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\DAO\obj\Debug\net8.0\DAO.AssemblyInfoInputs.cache
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\DAO\obj\Debug\net8.0\DAO.AssemblyInfo.cs
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\DAO\obj\Debug\net8.0\DAO.csproj.CoreCompileInputs.cache
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\DAO\obj\Debug\net8.0\DAO.dll
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\DAO\obj\Debug\net8.0\refint\DAO.dll
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\DAO\obj\Debug\net8.0\DAO.pdb
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\DAO\obj\Debug\net8.0\ref\DAO.dll
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DAO\bin\Debug\net8.0\DAO.deps.json
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DAO\bin\Debug\net8.0\DAO.dll
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DAO\bin\Debug\net8.0\DAO.pdb
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DAO\bin\Debug\net8.0\DTO.dll
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DAO\bin\Debug\net8.0\DTO.pdb
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DAO\obj\Debug\net8.0\DAO.csproj.AssemblyReference.cache
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DAO\obj\Debug\net8.0\DAO.GeneratedMSBuildEditorConfig.editorconfig
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DAO\obj\Debug\net8.0\DAO.AssemblyInfoInputs.cache
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DAO\obj\Debug\net8.0\DAO.AssemblyInfo.cs
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DAO\obj\Debug\net8.0\DAO.csproj.CoreCompileInputs.cache
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DAO\obj\Debug\net8.0\DAO.sourcelink.json
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DAO\obj\Debug\net8.0\DAO.csproj.Up2Date
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DAO\obj\Debug\net8.0\DAO.dll
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DAO\obj\Debug\net8.0\refint\DAO.dll
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DAO\obj\Debug\net8.0\DAO.pdb
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DAO\obj\Debug\net8.0\ref\DAO.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DAO\bin\Debug\net8.0\DAO.deps.json
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DAO\bin\Debug\net8.0\DAO.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DAO\bin\Debug\net8.0\DAO.pdb
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DAO\bin\Debug\net8.0\DTO.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DAO\bin\Debug\net8.0\DTO.pdb
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DAO\obj\Debug\net8.0\DAO.csproj.AssemblyReference.cache
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DAO\obj\Debug\net8.0\DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DAO\obj\Debug\net8.0\DAO.AssemblyInfoInputs.cache
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DAO\obj\Debug\net8.0\DAO.AssemblyInfo.cs
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DAO\obj\Debug\net8.0\DAO.csproj.CoreCompileInputs.cache
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DAO\obj\Debug\net8.0\DAO.sourcelink.json
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DAO\obj\Debug\net8.0\DAO.csproj.Up2Date
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DAO\obj\Debug\net8.0\DAO.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DAO\obj\Debug\net8.0\refint\DAO.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DAO\obj\Debug\net8.0\DAO.pdb
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DAO\obj\Debug\net8.0\ref\DAO.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\DAO\bin\Debug\net8.0\DAO.deps.json
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\DAO\bin\Debug\net8.0\DAO.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\DAO\bin\Debug\net8.0\DAO.pdb
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\DAO\bin\Debug\net8.0\DTO.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\DAO\bin\Debug\net8.0\DTO.pdb
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\DAO\obj\Debug\net8.0\DAO.csproj.AssemblyReference.cache
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\DAO\obj\Debug\net8.0\DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\DAO\obj\Debug\net8.0\DAO.AssemblyInfoInputs.cache
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\DAO\obj\Debug\net8.0\DAO.AssemblyInfo.cs
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\DAO\obj\Debug\net8.0\DAO.csproj.CoreCompileInputs.cache
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\DAO\obj\Debug\net8.0\DAO.sourcelink.json
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\DAO\obj\Debug\net8.0\DAO.csproj.Up2Date
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\DAO\obj\Debug\net8.0\DAO.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\DAO\obj\Debug\net8.0\refint\DAO.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\DAO\obj\Debug\net8.0\DAO.pdb
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\DAO\obj\Debug\net8.0\ref\DAO.dll

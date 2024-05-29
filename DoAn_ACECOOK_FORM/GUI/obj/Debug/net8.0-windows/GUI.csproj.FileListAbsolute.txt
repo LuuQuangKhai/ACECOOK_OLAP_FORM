@@ -1,0 +1,160 @@
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\GUI.exe
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\GUI.deps.json
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\GUI.runtimeconfig.json
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\GUI.dll
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\GUI.pdb
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.csproj.GenerateResource.cache
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.AssemblyInfoInputs.cache
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.AssemblyInfo.cs
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.csproj.CoreCompileInputs.cache
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.dll
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\refint\GUI.dll
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.pdb
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.genruntimeconfig.cache
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\ref\GUI.dll
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\BUS.dll
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\DTO.dll
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\BUS.pdb
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\DTO.pdb
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.csproj.AssemblyReference.cache
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.FORM_DangNhap.resources
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.Properties.Resources.resources
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.csproj.Up2Date
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.FORM_KhungTrang.resources
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.US_TrangChu.resources
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\GUI.exe
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\GUI.deps.json
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\GUI.runtimeconfig.json
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\GUI.dll
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\GUI.pdb
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\BUS.dll
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\DTO.dll
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\BUS.pdb
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\DTO.pdb
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.csproj.AssemblyReference.cache
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.FORM_DangNhap.resources
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.FORM_KhungTrang.resources
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.Properties.Resources.resources
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.US_TrangChu.resources
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.csproj.GenerateResource.cache
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.AssemblyInfoInputs.cache
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.AssemblyInfo.cs
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.csproj.CoreCompileInputs.cache
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.sourcelink.json
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.csproj.Up2Date
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.dll
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\refint\GUI.dll
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.pdb
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.genruntimeconfig.cache
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\ref\GUI.dll
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.US_PhanTich.resources
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\GUI.exe
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\GUI.deps.json
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\GUI.runtimeconfig.json
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\GUI.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\GUI.pdb
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\BUS.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\DTO.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\BUS.pdb
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\DTO.pdb
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.FORM_DangNhap.resources
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.FORM_KhungTrang.resources
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.Properties.Resources.resources
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.US_PhanTich.resources
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.US_QuanTri.resources
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.US_TrangChu.resources
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.csproj.GenerateResource.cache
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.AssemblyInfo.cs
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.sourcelink.json
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.csproj.Up2Date
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\refint\GUI.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.pdb
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.genruntimeconfig.cache
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\ref\GUI.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\DAO.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\DAO.pdb
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\GUI.exe
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\GUI.deps.json
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\GUI.runtimeconfig.json
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\GUI.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\GUI.pdb
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\BUS.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\DTO.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\DAO.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\BUS.pdb
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\DTO.pdb
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\DAO.pdb
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.FORM_DangNhap.resources
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.FORM_KhungTrang.resources
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.Properties.Resources.resources
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.US_PhanTich.resources
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.US_QuanTri.resources
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.US_TrangChu.resources
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.csproj.GenerateResource.cache
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.AssemblyInfo.cs
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.sourcelink.json
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.csproj.Up2Date
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\refint\GUI.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.pdb
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.genruntimeconfig.cache
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\ref\GUI.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\GUI.exe
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\GUI.deps.json
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\GUI.runtimeconfig.json
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\GUI.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\GUI.pdb
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\BUS.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\DTO.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\DAO.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\BUS.pdb
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\DTO.pdb
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\GUI\bin\Debug\net8.0-windows\DAO.pdb
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.FORM_DangNhap.resources
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.FORM_KhungTrang.resources
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.Properties.Resources.resources
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.US_PhanTich.resources
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.US_QuanTri.resources
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.US_TrangChu.resources
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.csproj.GenerateResource.cache
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.AssemblyInfo.cs
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.sourcelink.json
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.csproj.Up2Date
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\refint\GUI.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.pdb
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\GUI.genruntimeconfig.cache
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\GUI\obj\Debug\net8.0-windows\ref\GUI.dll

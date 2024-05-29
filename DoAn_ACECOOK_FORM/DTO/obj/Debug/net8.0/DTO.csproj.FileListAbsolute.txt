@@ -1,0 +1,49 @@
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\DTO\bin\Debug\net8.0\DTO.deps.json
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\DTO\bin\Debug\net8.0\DTO.dll
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\DTO\bin\Debug\net8.0\DTO.pdb
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\DTO\obj\Debug\net8.0\DTO.dll
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\DTO\obj\Debug\net8.0\refint\DTO.dll
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\DTO\obj\Debug\net8.0\DTO.pdb
+D:\File_DoAnKySu_Main\DoAn_ACECOOK_FORM\DTO\obj\Debug\net8.0\ref\DTO.dll
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DTO\bin\Debug\net8.0\DTO.deps.json
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DTO\bin\Debug\net8.0\DTO.dll
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DTO\bin\Debug\net8.0\DTO.pdb
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DTO\obj\Debug\net8.0\DTO.sourcelink.json
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DTO\obj\Debug\net8.0\DTO.dll
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DTO\obj\Debug\net8.0\refint\DTO.dll
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DTO\obj\Debug\net8.0\DTO.pdb
+D:\OLAP_ACECOOK\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DTO\obj\Debug\net8.0\ref\DTO.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DTO\bin\Debug\net8.0\DTO.deps.json
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DTO\bin\Debug\net8.0\DTO.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DTO\bin\Debug\net8.0\DTO.pdb
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DTO\obj\Debug\net8.0\DTO.sourcelink.json
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DTO\obj\Debug\net8.0\DTO.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DTO\obj\Debug\net8.0\refint\DTO.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DTO\obj\Debug\net8.0\DTO.pdb
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DTO\obj\Debug\net8.0\ref\DTO.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK\DoAn_ACECOOK_FORM\DTO\obj\Debug\net8.0\DTO.csproj.AssemblyReference.cache
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\DTO\bin\Debug\net8.0\DTO.deps.json
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\DTO\bin\Debug\net8.0\DTO.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\DTO\bin\Debug\net8.0\DTO.pdb
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\DTO\obj\Debug\net8.0\DTO.csproj.AssemblyReference.cache
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\DTO\obj\Debug\net8.0\DTO.sourcelink.json
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\DTO\obj\Debug\net8.0\DTO.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\DTO\obj\Debug\net8.0\refint\DTO.dll
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\DTO\obj\Debug\net8.0\DTO.pdb
+C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\DTO\obj\Debug\net8.0\ref\DTO.dll
