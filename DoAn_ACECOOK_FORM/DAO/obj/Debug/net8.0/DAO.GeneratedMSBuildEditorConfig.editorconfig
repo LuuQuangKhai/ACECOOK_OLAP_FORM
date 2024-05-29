@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DAO
-build_property.ProjectDir = C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\DAO\
+build_property.ProjectDir = C:\Users\luuca\Desktop\ACECOOK_OLAP_FORM\ACECOOK_OLAP_FORM\DoAn_ACECOOK_FORM\DAO\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

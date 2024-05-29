@@ -16,7 +16,8 @@ namespace DAO
         public List<DTO_NhanVien> GetAll()
         {
             List<DTO_NhanVien> danhSachNhanVien = new List<DTO_NhanVien>();
-            using (var connection = new SqlConnection(myConnectionString))
+            using (
+                var connection = new SqlConnection(myConnectionString))
             {
                 connection.Open();
                 string query = "SELECT * FROM NhanVien";

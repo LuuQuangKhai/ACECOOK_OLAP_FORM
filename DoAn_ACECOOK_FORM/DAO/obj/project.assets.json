@@ -475,11 +475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luuca\\Desktop\\OLAP_ACECOOK - Copy - Copy\\DoAn_ACECOOK_FORM\\DAO\\DAO.csproj",
+      "projectUniqueName": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\DAO\\DAO.csproj",
       "projectName": "DAO",
-      "projectPath": "C:\\Users\\luuca\\Desktop\\OLAP_ACECOOK - Copy - Copy\\DoAn_ACECOOK_FORM\\DAO\\DAO.csproj",
+      "projectPath": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\DAO\\DAO.csproj",
       "packagesPath": "C:\\Users\\luuca\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luuca\\Desktop\\OLAP_ACECOOK - Copy - Copy\\DoAn_ACECOOK_FORM\\DAO\\obj\\",
+      "outputPath": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\DAO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\luuca\\AppData\\Roaming\\NuGet\\NuGet.Config",

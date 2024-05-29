@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luuca\\Desktop\\OLAP_ACECOOK - Copy - Copy\\DoAn_ACECOOK_FORM\\DTO\\DTO.csproj": {}
+    "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\DTO\\DTO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luuca\\Desktop\\OLAP_ACECOOK - Copy - Copy\\DoAn_ACECOOK_FORM\\DTO\\DTO.csproj": {
+    "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\DTO\\DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luuca\\Desktop\\OLAP_ACECOOK - Copy - Copy\\DoAn_ACECOOK_FORM\\DTO\\DTO.csproj",
+        "projectUniqueName": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\DTO\\DTO.csproj",
         "projectName": "DTO",
-        "projectPath": "C:\\Users\\luuca\\Desktop\\OLAP_ACECOOK - Copy - Copy\\DoAn_ACECOOK_FORM\\DTO\\DTO.csproj",
+        "projectPath": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\DTO\\DTO.csproj",
         "packagesPath": "C:\\Users\\luuca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luuca\\Desktop\\OLAP_ACECOOK - Copy - Copy\\DoAn_ACECOOK_FORM\\DTO\\obj\\",
+        "outputPath": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\DTO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luuca\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luuca\\Desktop\\OLAP_ACECOOK - Copy - Copy\\DoAn_ACECOOK_FORM\\BUS\\BUS.csproj": {}
+    "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\BUS\\BUS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luuca\\Desktop\\OLAP_ACECOOK - Copy - Copy\\DoAn_ACECOOK_FORM\\BUS\\BUS.csproj": {
+    "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\BUS\\BUS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luuca\\Desktop\\OLAP_ACECOOK - Copy - Copy\\DoAn_ACECOOK_FORM\\BUS\\BUS.csproj",
+        "projectUniqueName": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\BUS\\BUS.csproj",
         "projectName": "BUS",
-        "projectPath": "C:\\Users\\luuca\\Desktop\\OLAP_ACECOOK - Copy - Copy\\DoAn_ACECOOK_FORM\\BUS\\BUS.csproj",
+        "projectPath": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\BUS\\BUS.csproj",
         "packagesPath": "C:\\Users\\luuca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luuca\\Desktop\\OLAP_ACECOOK - Copy - Copy\\DoAn_ACECOOK_FORM\\BUS\\obj\\",
+        "outputPath": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\BUS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luuca\\AppData\\Roaming\\NuGet\\NuGet.Config",

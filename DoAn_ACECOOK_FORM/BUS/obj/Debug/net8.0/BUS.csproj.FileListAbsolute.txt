@@ -63,3 +63,21 @@ C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\BUS\obj\Debu
 C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\BUS\obj\Debug\net8.0\refint\BUS.dll
 C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\BUS\obj\Debug\net8.0\BUS.pdb
 C:\Users\luuca\Desktop\OLAP_ACECOOK - Copy - Copy\DoAn_ACECOOK_FORM\BUS\obj\Debug\net8.0\ref\BUS.dll
+C:\Users\luuca\Desktop\ACECOOK_OLAP_FORM\ACECOOK_OLAP_FORM\DoAn_ACECOOK_FORM\BUS\bin\Debug\net8.0\BUS.deps.json
+C:\Users\luuca\Desktop\ACECOOK_OLAP_FORM\ACECOOK_OLAP_FORM\DoAn_ACECOOK_FORM\BUS\bin\Debug\net8.0\BUS.dll
+C:\Users\luuca\Desktop\ACECOOK_OLAP_FORM\ACECOOK_OLAP_FORM\DoAn_ACECOOK_FORM\BUS\bin\Debug\net8.0\BUS.pdb
+C:\Users\luuca\Desktop\ACECOOK_OLAP_FORM\ACECOOK_OLAP_FORM\DoAn_ACECOOK_FORM\BUS\bin\Debug\net8.0\DAO.dll
+C:\Users\luuca\Desktop\ACECOOK_OLAP_FORM\ACECOOK_OLAP_FORM\DoAn_ACECOOK_FORM\BUS\bin\Debug\net8.0\DTO.dll
+C:\Users\luuca\Desktop\ACECOOK_OLAP_FORM\ACECOOK_OLAP_FORM\DoAn_ACECOOK_FORM\BUS\bin\Debug\net8.0\DAO.pdb
+C:\Users\luuca\Desktop\ACECOOK_OLAP_FORM\ACECOOK_OLAP_FORM\DoAn_ACECOOK_FORM\BUS\bin\Debug\net8.0\DTO.pdb
+C:\Users\luuca\Desktop\ACECOOK_OLAP_FORM\ACECOOK_OLAP_FORM\DoAn_ACECOOK_FORM\BUS\obj\Debug\net8.0\BUS.csproj.AssemblyReference.cache
+C:\Users\luuca\Desktop\ACECOOK_OLAP_FORM\ACECOOK_OLAP_FORM\DoAn_ACECOOK_FORM\BUS\obj\Debug\net8.0\BUS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luuca\Desktop\ACECOOK_OLAP_FORM\ACECOOK_OLAP_FORM\DoAn_ACECOOK_FORM\BUS\obj\Debug\net8.0\BUS.AssemblyInfoInputs.cache
+C:\Users\luuca\Desktop\ACECOOK_OLAP_FORM\ACECOOK_OLAP_FORM\DoAn_ACECOOK_FORM\BUS\obj\Debug\net8.0\BUS.AssemblyInfo.cs
+C:\Users\luuca\Desktop\ACECOOK_OLAP_FORM\ACECOOK_OLAP_FORM\DoAn_ACECOOK_FORM\BUS\obj\Debug\net8.0\BUS.csproj.CoreCompileInputs.cache
+C:\Users\luuca\Desktop\ACECOOK_OLAP_FORM\ACECOOK_OLAP_FORM\DoAn_ACECOOK_FORM\BUS\obj\Debug\net8.0\BUS.sourcelink.json
+C:\Users\luuca\Desktop\ACECOOK_OLAP_FORM\ACECOOK_OLAP_FORM\DoAn_ACECOOK_FORM\BUS\obj\Debug\net8.0\BUS.csproj.Up2Date
+C:\Users\luuca\Desktop\ACECOOK_OLAP_FORM\ACECOOK_OLAP_FORM\DoAn_ACECOOK_FORM\BUS\obj\Debug\net8.0\BUS.dll
+C:\Users\luuca\Desktop\ACECOOK_OLAP_FORM\ACECOOK_OLAP_FORM\DoAn_ACECOOK_FORM\BUS\obj\Debug\net8.0\refint\BUS.dll
+C:\Users\luuca\Desktop\ACECOOK_OLAP_FORM\ACECOOK_OLAP_FORM\DoAn_ACECOOK_FORM\BUS\obj\Debug\net8.0\BUS.pdb
+C:\Users\luuca\Desktop\ACECOOK_OLAP_FORM\ACECOOK_OLAP_FORM\DoAn_ACECOOK_FORM\BUS\obj\Debug\net8.0\ref\BUS.dll
