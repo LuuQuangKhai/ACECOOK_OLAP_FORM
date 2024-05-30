@@ -1,4 +1,6 @@
-﻿using System;
+﻿using BUS;
+using DTO;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -7,14 +9,26 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using BUS;
+using DTO;
 
 namespace GUI
 {
     public partial class US_TrangChu : UserControl
     {
+        private BUS_QuyenDuocCap bus_quyenduoccap = new BUS_QuyenDuocCap();
+
+        private string manhanvien_public;
+
         public US_TrangChu()
         {
             InitializeComponent();
+        }
+
+        public US_TrangChu(string manhanvien)
+        {
+            InitializeComponent();
+            manhanvien_public = manhanvien;
         }
 
         private void btn_PhanTich_Click(object sender, EventArgs e)
@@ -22,6 +36,35 @@ namespace GUI
             panel_TrangChu.Controls.Clear();
             US_PhanTich gui = new US_PhanTich();
             panel_TrangChu.Controls.Add(gui);
+        }
+
+        private void kiemtraquyen()
+        {
+            List<DTO_QuyenDuocCap> list_quyenduoccap = bus_quyenduoccap.GetAllByID(manhanvien_public);
+
+            foreach (DTO_QuyenDuocCap dto in list_quyenduoccap)
+            {
+                if (dto.MaQuyen == 2)
+                {
+                    btn_NapDuLieu.Enabled = true;
+                }
+                if(dto.MaQuyen == 3)
+                {
+                    btn_PhanTich.Enabled = true;
+                }
+                if (dto.MaQuyen == 4)
+                {
+                    btn_ThongKe.Enabled = true;
+                }
+                if (dto.MaQuyen == 5)
+                {
+                    btn_KhaiPha.Enabled = true;
+                }
+                if(dto.MaQuyen == 6)
+                {
+                    btn_SaoLuu.Enabled = true;
+                }
+            }
         }
 
         private void US_TrangChu_Load(object sender, EventArgs e)
@@ -46,6 +89,15 @@ namespace GUI
             Bitmap resizedImage5 = new Bitmap(myImage5, new Size(30, 30));
             btn_SaoLuu.Image = resizedImage5;
 
+            lbl_MaNhanVien.Text = manhanvien_public;
+
+            btn_NapDuLieu.Enabled = false;
+            btn_PhanTich.Enabled = false;
+            btn_ThongKe.Enabled = false;
+            btn_KhaiPha.Enabled = false;
+            btn_SaoLuu.Enabled = false;
+
+            kiemtraquyen();
         }
 
     }

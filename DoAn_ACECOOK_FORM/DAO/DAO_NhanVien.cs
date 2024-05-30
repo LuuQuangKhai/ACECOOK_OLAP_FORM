@@ -75,6 +75,27 @@ namespace DAO
             return null;
         }
 
+        public void Add(DTO_NhanVien nhanVien)
+        {
+            using (var connection = new SqlConnection(myConnectionString))
+            {
+                connection.Open();
+                string query = "INSERT INTO NhanVien (MaNhanVien, TenNhanVien, Email, SDT, CCCD, MatKhau, DiaChi) VALUES (@MaNV, @TenNV, @Email, @SDT, @CCCD, @MatKhau, @DiaChi)";
+                using (var command = new SqlCommand(query, connection))
+                {
+                    command.Parameters.AddWithValue("@MaNV", nhanVien.MaNhanVien);
+                    command.Parameters.AddWithValue("@TenNV", nhanVien.TenNhanVien);
+                    command.Parameters.AddWithValue("@Email", nhanVien.Email);
+                    command.Parameters.AddWithValue("@SDT", nhanVien.SDT);
+                    command.Parameters.AddWithValue("@CCCD", nhanVien.CCCD);
+                    command.Parameters.AddWithValue("@MatKhau", nhanVien.MatKhau);
+                    command.Parameters.AddWithValue("@DiaChi", nhanVien.DiaChi);
+                    command.ExecuteNonQuery();
+                }
+            }
+        }
+
+
         public void Delete(string maNhanVien)
         {
             using (var connection = new SqlConnection(myConnectionString))

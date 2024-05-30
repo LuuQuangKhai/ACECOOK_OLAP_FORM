@@ -25,6 +25,11 @@ namespace BUS
             return dao.GetByID(id);
         }
 
+        public void Add(DTO_NhanVien dto)
+        {
+            dao.Add(dto);
+        }
+
         public void Delete(string id)
         {
             dao.Delete(id);

@@ -153,6 +153,7 @@
             checkBox6.TabIndex = 5;
             checkBox6.Text = "Sao lưu";
             checkBox6.UseVisualStyleBackColor = true;
+            checkBox6.CheckedChanged += checkBox6_CheckedChanged;
             // 
             // checkBox5
             // 
@@ -164,6 +165,7 @@
             checkBox5.TabIndex = 4;
             checkBox5.Text = "Khai phá";
             checkBox5.UseVisualStyleBackColor = true;
+            checkBox5.CheckedChanged += checkBox5_CheckedChanged;
             // 
             // checkBox4
             // 
@@ -175,6 +177,7 @@
             checkBox4.TabIndex = 3;
             checkBox4.Text = "Thống kê";
             checkBox4.UseVisualStyleBackColor = true;
+            checkBox4.CheckedChanged += checkBox4_CheckedChanged;
             // 
             // checkBox3
             // 
@@ -186,6 +189,7 @@
             checkBox3.TabIndex = 2;
             checkBox3.Text = "Phân tích";
             checkBox3.UseVisualStyleBackColor = true;
+            checkBox3.CheckedChanged += checkBox3_CheckedChanged;
             // 
             // checkBox2
             // 
@@ -197,6 +201,7 @@
             checkBox2.TabIndex = 1;
             checkBox2.Text = "Nạp dữ liệu";
             checkBox2.UseVisualStyleBackColor = true;
+            checkBox2.CheckedChanged += checkBox2_CheckedChanged;
             // 
             // checkBox1
             // 
@@ -208,6 +213,7 @@
             checkBox1.TabIndex = 0;
             checkBox1.Text = "Quản trị";
             checkBox1.UseVisualStyleBackColor = true;
+            checkBox1.CheckedChanged += checkBox1_CheckedChanged;
             // 
             // txt_DiaChi
             // 
@@ -324,6 +330,7 @@
             txt_MaNhanVien.Name = "txt_MaNhanVien";
             txt_MaNhanVien.Size = new Size(209, 23);
             txt_MaNhanVien.TabIndex = 1;
+            txt_MaNhanVien.TextChanged += txt_MaNhanVien_TextChanged;
             // 
             // label1
             // 
@@ -354,6 +361,7 @@
             dataGridView_DanhSachNhanVien.Name = "dataGridView_DanhSachNhanVien";
             dataGridView_DanhSachNhanVien.Size = new Size(1386, 273);
             dataGridView_DanhSachNhanVien.TabIndex = 0;
+            dataGridView_DanhSachNhanVien.CellClick += dataGridView_DanhSachNhanVien_CellClick;
             // 
             // panel1
             // 

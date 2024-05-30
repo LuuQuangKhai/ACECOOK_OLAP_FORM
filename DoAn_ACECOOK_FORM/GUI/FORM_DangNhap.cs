@@ -9,11 +9,15 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
 using System.Data;
+using BUS;
+using DTO;
 
 namespace GUI
 {
     public partial class FORM_DangNhap : Form
     {
+        private BUS_NhanVien bus_nhanvien = new BUS_NhanVien();
+
         public FORM_DangNhap()
         {
             InitializeComponent();
@@ -46,10 +50,25 @@ namespace GUI
             }
             else
             {
-                FORM_KhungTrang gui = new FORM_KhungTrang();
-                this.Hide();
-                gui.Show();
-                gui.FormClosing += Gui_FormClosing;
+                DTO_NhanVien dto = bus_nhanvien.GetByID(txt_TenDangNhap.Text.Trim());
+                if (dto != null)
+                {
+                    if(txt_MatKhau.Text.Trim().Equals(dto.MatKhau))
+                    {
+                        FORM_KhungTrang gui = new FORM_KhungTrang(txt_TenDangNhap.Text.Trim());
+                        this.Hide();
+                        gui.Show();
+                        gui.FormClosing += Gui_FormClosing;
+                    }
+                    else
+                    {
+                        MessageBox.Show(this, "Sai mật khẩu !", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    }
+                }
+                else
+                {
+                    MessageBox.Show(this, "Tên tài khoản không tồn tại !", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                }
             }
         }
 
@@ -60,7 +79,7 @@ namespace GUI
 
         private void btn_QuenMatKhau_Click(object sender, EventArgs e)
         {
-
+            
         }
     }
 }
