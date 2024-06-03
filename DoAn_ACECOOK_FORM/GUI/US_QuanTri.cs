@@ -87,9 +87,19 @@ namespace GUI
 
         }
 
+        private void loadDanhSach()
+        {
+            var dsnhanvien = bus_nhanvien.GetAll();
+            var locdanhsach = dsnhanvien.Where(nv => nv.MaNhanVien != "admin").ToList();
+
+            dataGridView_DanhSachNhanVien.DataSource = null;
+            dataGridView_DanhSachNhanVien.DataSource = locdanhsach;
+        }
+
+
         private void US_QuanTri_Load(object sender, EventArgs e)
         {
-            dataGridView_DanhSachNhanVien.DataSource = bus_nhanvien.GetAll();
+            loadDanhSach();
         }
 
 
@@ -124,7 +134,7 @@ namespace GUI
 
                     MessageBox.Show(this, "Thêm nhân viên thành công.", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
-                    dataGridView_DanhSachNhanVien.DataSource = bus_nhanvien.GetAll();
+                    loadDanhSach();
                 }
                 else
                 {
@@ -151,7 +161,7 @@ namespace GUI
 
                     MessageBox.Show(this, "Xóa nhân viên thành công.", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
-                    dataGridView_DanhSachNhanVien.DataSource = bus_nhanvien.GetAll();
+                    loadDanhSach();
                 }
             }
         }
@@ -192,7 +202,7 @@ namespace GUI
 
                     MessageBox.Show(this, "Sửa nhân viên thành công.", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
-                    dataGridView_DanhSachNhanVien.DataSource = bus_nhanvien.GetAll();
+                    loadDanhSach();
                 }
             }
         }

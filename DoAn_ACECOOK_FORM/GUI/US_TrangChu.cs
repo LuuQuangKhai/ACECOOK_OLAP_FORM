@@ -48,7 +48,7 @@ namespace GUI
                 {
                     btn_NapDuLieu.Enabled = true;
                 }
-                if(dto.MaQuyen == 3)
+                if (dto.MaQuyen == 3)
                 {
                     btn_PhanTich.Enabled = true;
                 }
@@ -60,7 +60,7 @@ namespace GUI
                 {
                     btn_KhaiPha.Enabled = true;
                 }
-                if(dto.MaQuyen == 6)
+                if (dto.MaQuyen == 6)
                 {
                     btn_SaoLuu.Enabled = true;
                 }
@@ -100,5 +100,17 @@ namespace GUI
             kiemtraquyen();
         }
 
+        private void btn_ThongTin_Click(object sender, EventArgs e)
+        {
+            FORM_ChinhSuaThongTin gui = new FORM_ChinhSuaThongTin(manhanvien_public);
+            gui.ShowDialog();
+        }
+
+        private void btn_SaoLuu_Click(object sender, EventArgs e)
+        {
+            panel_TrangChu.Controls.Clear();
+            US_SaoLuu gui = new US_SaoLuu();
+            panel_TrangChu.Controls.Add(gui);
+        }
     }
 }

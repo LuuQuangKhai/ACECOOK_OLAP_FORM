@@ -76,6 +76,7 @@
             btn_ThongTin.TabIndex = 12;
             btn_ThongTin.Text = "Chỉnh sửa thông tin";
             btn_ThongTin.UseVisualStyleBackColor = true;
+            btn_ThongTin.Click += btn_ThongTin_Click;
             // 
             // lbl_MaNhanVien
             // 
@@ -122,6 +123,7 @@
             btn_SaoLuu.TextAlign = ContentAlignment.MiddleLeft;
             btn_SaoLuu.TextImageRelation = TextImageRelation.ImageBeforeText;
             btn_SaoLuu.UseVisualStyleBackColor = false;
+            btn_SaoLuu.Click += btn_SaoLuu_Click;
             // 
             // btn_KhaiPha
             // 
