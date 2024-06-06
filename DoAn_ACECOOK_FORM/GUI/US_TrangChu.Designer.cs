@@ -215,7 +215,7 @@
             // pictureBox2
             // 
             pictureBox2.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
-            pictureBox2.BackColor = Color.IndianRed;
+            pictureBox2.BackColor = Color.Red;
             pictureBox2.Image = Properties.Resources.logo_acecook;
             pictureBox2.Location = new Point(3, 3);
             pictureBox2.Name = "pictureBox2";

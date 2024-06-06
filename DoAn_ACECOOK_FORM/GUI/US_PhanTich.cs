@@ -7,14 +7,26 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using BUS;
 
 namespace GUI
 {
     public partial class US_PhanTich : UserControl
     {
+        BUS_OLAP_MDX bus;
         public US_PhanTich()
         {
             InitializeComponent();
+            bus = new BUS_OLAP_MDX();
+        }
+
+        private void LoadData()
+        {
+            string mdxQuery = @"select [Measures].[Doanh Thu] on columns,
+                                non empty [Dim Chi Nhanh].[Ten Khu Vuc].members on rows
+                                from [DB ACECOOK DDS]";
+
+            dataGridView1.DataSource = bus.GetMDXData(mdxQuery);
         }
 
         private void US_PhanTich_Load(object sender, EventArgs e)
@@ -30,6 +42,9 @@ namespace GUI
             Image myImage3 = Properties.Resources.action;
             Bitmap resizedImage3 = new Bitmap(myImage3, new Size(30, 30));
             btn_PhanTich.Image = resizedImage3;
+
+
+            LoadData();
         }
 
         private void cbo_KhuVuc_SelectedIndexChanged(object sender, EventArgs e)

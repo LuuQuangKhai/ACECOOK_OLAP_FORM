@@ -10,5 +10,7 @@ namespace DAO
     {
         public string myConnectionString = "Data Source=LUUQUANGKHAI\\KHAISERVER;Initial Catalog=DB_ACECOOK_FORM;Integrated Security=True;TrustServerCertificate=True;";
 
+        public string mySSASconnectionString = @"Provider=MSOLAP;Data Source=DESKTOP-R6885S0\MSSQLSERVER22;Initial Catalog=cube;Integrated Security=SSPI";
+
     }
 }

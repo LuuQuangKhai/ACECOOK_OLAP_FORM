@@ -35,10 +35,10 @@
             cbo_ChonDuLieu = new ComboBox();
             txt_DuongDan = new TextBox();
             groupBox1 = new GroupBox();
+            label3 = new Label();
+            txt_TenFile = new TextBox();
             btn_SaoLuu = new Button();
             pictureBox_ChonDuongDan = new PictureBox();
-            txt_TenFile = new TextBox();
-            label3 = new Label();
             panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             groupBox1.SuspendLayout();
@@ -47,7 +47,7 @@
             // 
             // panel1
             // 
-            panel1.BackColor = Color.IndianRed;
+            panel1.BackColor = Color.Red;
             panel1.Controls.Add(label1);
             panel1.Location = new Point(3, 3);
             panel1.Name = "panel1";
@@ -119,6 +119,24 @@
             groupBox1.TabStop = false;
             groupBox1.Text = "Chọn đường dẫn sao lưu";
             // 
+            // label3
+            // 
+            label3.AutoSize = true;
+            label3.Font = new Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label3.Location = new Point(26, 94);
+            label3.Name = "label3";
+            label3.Size = new Size(76, 25);
+            label3.TabIndex = 9;
+            label3.Text = "Tên file:";
+            // 
+            // txt_TenFile
+            // 
+            txt_TenFile.Font = new Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            txt_TenFile.Location = new Point(128, 91);
+            txt_TenFile.Name = "txt_TenFile";
+            txt_TenFile.Size = new Size(274, 33);
+            txt_TenFile.TabIndex = 8;
+            // 
             // btn_SaoLuu
             // 
             btn_SaoLuu.BackColor = Color.LightCoral;
@@ -142,24 +160,6 @@
             pictureBox_ChonDuongDan.TabIndex = 6;
             pictureBox_ChonDuongDan.TabStop = false;
             pictureBox_ChonDuongDan.Click += pictureBox_ChonDuongDan_Click;
-            // 
-            // txt_TenFile
-            // 
-            txt_TenFile.Font = new Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            txt_TenFile.Location = new Point(128, 91);
-            txt_TenFile.Name = "txt_TenFile";
-            txt_TenFile.Size = new Size(274, 33);
-            txt_TenFile.TabIndex = 8;
-            // 
-            // label3
-            // 
-            label3.AutoSize = true;
-            label3.Font = new Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label3.Location = new Point(26, 94);
-            label3.Name = "label3";
-            label3.Size = new Size(76, 25);
-            label3.TabIndex = 9;
-            label3.Text = "Tên file:";
             // 
             // US_SaoLuu
             // 

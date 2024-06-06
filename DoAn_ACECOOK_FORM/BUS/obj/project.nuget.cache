@@ -1,9 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "9Ii4lYLVl1U=",
+  "dgSpecHash": "NjsVIzQARO8=",
   "success": true,
   "projectFilePath": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\BUS\\BUS.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\luuca\\.nuget\\packages\\microsoft.analysisservices.adomdclient.netcore.retail.amd64\\19.80.0\\microsoft.analysisservices.adomdclient.netcore.retail.amd64.19.80.0.nupkg.sha512",
+    "C:\\Users\\luuca\\.nuget\\packages\\microsoft.analysisservices.netcore.retail.amd64\\19.80.0\\microsoft.analysisservices.netcore.retail.amd64.19.80.0.nupkg.sha512",
+    "C:\\Users\\luuca\\.nuget\\packages\\microsoft.identity.client\\4.56.0\\microsoft.identity.client.4.56.0.nupkg.sha512",
+    "C:\\Users\\luuca\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.22.0\\microsoft.identitymodel.abstractions.6.22.0.nupkg.sha512",
     "C:\\Users\\luuca\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\luuca\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\luuca\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",

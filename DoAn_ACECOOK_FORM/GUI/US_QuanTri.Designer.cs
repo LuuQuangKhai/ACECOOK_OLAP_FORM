@@ -365,7 +365,7 @@
             // 
             // panel1
             // 
-            panel1.BackColor = Color.IndianRed;
+            panel1.BackColor = Color.Red;
             panel1.Controls.Add(label8);
             panel1.Location = new Point(3, 3);
             panel1.Name = "panel1";
