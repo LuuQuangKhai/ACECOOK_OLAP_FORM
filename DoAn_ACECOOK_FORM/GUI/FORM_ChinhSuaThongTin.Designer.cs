@@ -51,6 +51,7 @@
             label2 = new Label();
             txt_MaNhanVien = new TextBox();
             label1 = new Label();
+            label8 = new Label();
             groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)btn_Sua).BeginInit();
             groupBox3.SuspendLayout();
@@ -58,6 +59,7 @@
             // 
             // groupBox1
             // 
+            groupBox1.Controls.Add(label8);
             groupBox1.Controls.Add(btn_Sua);
             groupBox1.Controls.Add(groupBox3);
             groupBox1.Controls.Add(txt_DiaChi);
@@ -85,7 +87,7 @@
             // btn_Sua
             // 
             btn_Sua.Image = Properties.Resources.update;
-            btn_Sua.Location = new Point(377, 222);
+            btn_Sua.Location = new Point(359, 222);
             btn_Sua.Name = "btn_Sua";
             btn_Sua.Size = new Size(35, 35);
             btn_Sua.SizeMode = PictureBoxSizeMode.StretchImage;
@@ -306,6 +308,16 @@
             label1.TabIndex = 0;
             label1.Text = "Mã nhân viên";
             // 
+            // label8
+            // 
+            label8.AutoSize = true;
+            label8.Font = new Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label8.Location = new Point(400, 231);
+            label8.Name = "label8";
+            label8.Size = new Size(79, 15);
+            label8.TabIndex = 18;
+            label8.Text = "Lưu thông tin";
+            // 
             // FORM_ChinhSuaThongTin
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
@@ -349,5 +361,6 @@
         private Label label2;
         private TextBox txt_MaNhanVien;
         private Label label1;
+        private Label label8;
     }
 }

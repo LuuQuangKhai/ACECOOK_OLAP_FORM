@@ -19,6 +19,9 @@
     <Compile Update="US_SaoLuu.cs">
       <SubType>UserControl</SubType>
     </Compile>
+    <Compile Update="US_ThongKe.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Update="US_TrangChu.cs">
       <SubType>UserControl</SubType>
     </Compile>

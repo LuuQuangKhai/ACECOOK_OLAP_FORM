@@ -3,40 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|c:\\users\\luuca\\desktop\\acecook_olap_form\\acecook_olap_form\\doan_acecook_form\\gui\\form_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|solutionrelative:gui\\form_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|c:\\users\\luuca\\desktop\\acecook_olap_form\\acecook_olap_form\\doan_acecook_form\\gui\\us_thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|solutionrelative:gui\\us_thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B434C545-35D6-4467-A86A-54778C15388D}|DAO\\DAO.csproj|c:\\users\\luuca\\desktop\\acecook_olap_form\\acecook_olap_form\\doan_acecook_form\\dao\\connectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B434C545-35D6-4467-A86A-54778C15388D}|DAO\\DAO.csproj|solutionrelative:dao\\connectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|c:\\users\\luuca\\desktop\\acecook_olap_form\\acecook_olap_form\\doan_acecook_form\\gui\\us_trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|solutionrelative:gui\\us_trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AB034F0-F354-4185-ACD2-AB9359CFC2CC}|BUS\\BUS.csproj|c:\\users\\luuca\\desktop\\acecook_olap_form\\acecook_olap_form\\doan_acecook_form\\bus\\bus_olap_mdx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AB034F0-F354-4185-ACD2-AB9359CFC2CC}|BUS\\BUS.csproj|solutionrelative:bus\\bus_olap_mdx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|c:\\users\\luuca\\desktop\\acecook_olap_form\\acecook_olap_form\\doan_acecook_form\\gui\\us_trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|solutionrelative:gui\\us_trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AB034F0-F354-4185-ACD2-AB9359CFC2CC}|BUS\\BUS.csproj|c:\\users\\luuca\\desktop\\acecook_olap_form\\acecook_olap_form\\doan_acecook_form\\bus\\bus_quyenduoccap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AB034F0-F354-4185-ACD2-AB9359CFC2CC}|BUS\\BUS.csproj|solutionrelative:bus\\bus_quyenduoccap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|c:\\users\\luuca\\desktop\\acecook_olap_form\\acecook_olap_form\\doan_acecook_form\\gui\\us_quantri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|solutionrelative:gui\\us_quantri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AB034F0-F354-4185-ACD2-AB9359CFC2CC}|BUS\\BUS.csproj|c:\\users\\luuca\\desktop\\acecook_olap_form\\acecook_olap_form\\doan_acecook_form\\bus\\bus_saoluudulieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AB034F0-F354-4185-ACD2-AB9359CFC2CC}|BUS\\BUS.csproj|solutionrelative:bus\\bus_saoluudulieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|c:\\users\\luuca\\desktop\\acecook_olap_form\\acecook_olap_form\\doan_acecook_form\\gui\\us_saoluu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|solutionrelative:gui\\us_saoluu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B434C545-35D6-4467-A86A-54778C15388D}|DAO\\DAO.csproj|c:\\users\\luuca\\desktop\\acecook_olap_form\\acecook_olap_form\\doan_acecook_form\\dao\\dao_olap_mdx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B434C545-35D6-4467-A86A-54778C15388D}|DAO\\DAO.csproj|solutionrelative:dao\\dao_olap_mdx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B434C545-35D6-4467-A86A-54778C15388D}|DAO\\DAO.csproj|c:\\users\\luuca\\desktop\\acecook_olap_form\\acecook_olap_form\\doan_acecook_form\\dao\\dao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B434C545-35D6-4467-A86A-54778C15388D}|DAO\\DAO.csproj|solutionrelative:dao\\dao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|c:\\users\\luuca\\desktop\\acecook_olap_form\\acecook_olap_form\\doan_acecook_form\\gui\\us_phantich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|solutionrelative:gui\\us_phantich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|c:\\users\\luuca\\desktop\\acecook_olap_form\\acecook_olap_form\\doan_acecook_form\\gui\\us_phantich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|solutionrelative:gui\\us_phantich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\gui\\us_phantich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|solutionrelative:gui\\us_phantich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,108 +38,91 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FORM_DangNhap.cs",
-              "DocumentMoniker": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\GUI\\FORM_DangNhap.cs",
-              "RelativeDocumentMoniker": "GUI\\FORM_DangNhap.cs",
-              "ToolTip": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\GUI\\FORM_DangNhap.cs",
-              "RelativeToolTip": "GUI\\FORM_DangNhap.cs",
+              "DocumentIndex": 2,
+              "Title": "US_TrangChu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\GUI\\US_TrangChu.cs",
+              "RelativeDocumentMoniker": "GUI\\US_TrangChu.cs",
+              "ToolTip": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\GUI\\US_TrangChu.cs [Design]",
+              "RelativeToolTip": "GUI\\US_TrangChu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T16:50:28.984Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-13T18:58:30.331Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ConnectionString.cs",
-              "DocumentMoniker": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\DAO\\ConnectionString.cs",
-              "RelativeDocumentMoniker": "DAO\\ConnectionString.cs",
-              "ToolTip": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\DAO\\ConnectionString.cs",
-              "RelativeToolTip": "DAO\\ConnectionString.cs",
+              "Title": "US_TrangChu.cs",
+              "DocumentMoniker": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\GUI\\US_TrangChu.cs",
+              "RelativeDocumentMoniker": "GUI\\US_TrangChu.cs",
+              "ToolTip": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\GUI\\US_TrangChu.cs",
+              "RelativeToolTip": "GUI\\US_TrangChu.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T16:48:36.651Z"
+              "WhenOpened": "2024-06-13T18:55:28.747Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BUS_QuyenDuocCap.cs",
-              "DocumentMoniker": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\BUS\\BUS_QuyenDuocCap.cs",
-              "RelativeDocumentMoniker": "BUS\\BUS_QuyenDuocCap.cs",
-              "ToolTip": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\BUS\\BUS_QuyenDuocCap.cs",
-              "RelativeToolTip": "BUS\\BUS_QuyenDuocCap.cs",
+              "DocumentIndex": 0,
+              "Title": "US_ThongKe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\GUI\\US_ThongKe.cs",
+              "RelativeDocumentMoniker": "GUI\\US_ThongKe.cs",
+              "ToolTip": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\GUI\\US_ThongKe.cs [Design]",
+              "RelativeToolTip": "GUI\\US_ThongKe.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T16:48:33.747Z"
+              "WhenOpened": "2024-06-13T18:54:39.736Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "BUS_SaoLuuDuLieu.cs",
-              "DocumentMoniker": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\BUS\\BUS_SaoLuuDuLieu.cs",
-              "RelativeDocumentMoniker": "BUS\\BUS_SaoLuuDuLieu.cs",
-              "ToolTip": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\BUS\\BUS_SaoLuuDuLieu.cs",
-              "RelativeToolTip": "BUS\\BUS_SaoLuuDuLieu.cs",
+              "Title": "US_SaoLuu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\GUI\\US_SaoLuu.cs",
+              "RelativeDocumentMoniker": "GUI\\US_SaoLuu.cs",
+              "ToolTip": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\GUI\\US_SaoLuu.cs [Design]",
+              "RelativeToolTip": "GUI\\US_SaoLuu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T16:48:32.627Z"
+              "WhenOpened": "2024-06-13T18:54:37.536Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "US_QuanTri.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\GUI\\US_QuanTri.cs",
+              "RelativeDocumentMoniker": "GUI\\US_QuanTri.cs",
+              "ToolTip": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\GUI\\US_QuanTri.cs [Design]",
+              "RelativeToolTip": "GUI\\US_QuanTri.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T18:54:25.779Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "DAO.csproj",
-              "DocumentMoniker": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\DAO\\DAO.csproj",
-              "RelativeDocumentMoniker": "DAO\\DAO.csproj",
-              "ToolTip": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\DAO\\DAO.csproj",
-              "RelativeToolTip": "DAO\\DAO.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-05T15:05:34.201Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "US_PhanTich.cs",
               "DocumentMoniker": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\GUI\\US_PhanTich.cs",
               "RelativeDocumentMoniker": "GUI\\US_PhanTich.cs",
               "ToolTip": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\GUI\\US_PhanTich.cs",
               "RelativeToolTip": "GUI\\US_PhanTich.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T14:54:46.904Z",
+              "WhenOpened": "2024-06-13T18:39:09.454Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BUS_OLAP_MDX.cs",
-              "DocumentMoniker": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\BUS\\BUS_OLAP_MDX.cs",
-              "RelativeDocumentMoniker": "BUS\\BUS_OLAP_MDX.cs",
-              "ToolTip": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\BUS\\BUS_OLAP_MDX.cs",
-              "RelativeToolTip": "BUS\\BUS_OLAP_MDX.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T14:40:38.985Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "US_PhanTich.cs [Design]",
               "DocumentMoniker": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\GUI\\US_PhanTich.cs",
               "RelativeDocumentMoniker": "GUI\\US_PhanTich.cs",
               "ToolTip": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\GUI\\US_PhanTich.cs [Design]",
               "RelativeToolTip": "GUI\\US_PhanTich.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T14:54:42.654Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DAO_OLAP_MDX.cs",
-              "DocumentMoniker": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\DAO\\DAO_OLAP_MDX.cs",
-              "RelativeDocumentMoniker": "DAO\\DAO_OLAP_MDX.cs",
-              "ToolTip": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\DAO\\DAO_OLAP_MDX.cs",
-              "RelativeToolTip": "DAO\\DAO_OLAP_MDX.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T14:37:46.525Z"
+              "WhenOpened": "2024-06-13T18:35:11.262Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

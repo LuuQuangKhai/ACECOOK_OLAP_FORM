@@ -9,8 +9,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using BUS;
-using DTO;
 
 namespace GUI
 {
@@ -47,22 +45,27 @@ namespace GUI
                 if (dto.MaQuyen == 2)
                 {
                     btn_NapDuLieu.Enabled = true;
+                    btn_NapDuLieu.BackColor = System.Drawing.Color.IndianRed;
                 }
                 if (dto.MaQuyen == 3)
                 {
                     btn_PhanTich.Enabled = true;
+                    btn_PhanTich.BackColor = System.Drawing.Color.IndianRed;
                 }
                 if (dto.MaQuyen == 4)
                 {
                     btn_ThongKe.Enabled = true;
+                    btn_ThongKe.BackColor = System.Drawing.Color.IndianRed;
                 }
                 if (dto.MaQuyen == 5)
                 {
                     btn_KhaiPha.Enabled = true;
+                    btn_KhaiPha.BackColor = System.Drawing.Color.IndianRed;
                 }
                 if (dto.MaQuyen == 6)
                 {
                     btn_SaoLuu.Enabled = true;
+                    btn_SaoLuu.BackColor = System.Drawing.Color.IndianRed;
                 }
             }
         }
@@ -97,6 +100,12 @@ namespace GUI
             btn_KhaiPha.Enabled = false;
             btn_SaoLuu.Enabled = false;
 
+            btn_NapDuLieu.BackColor = SystemColors.GrayText;
+            btn_PhanTich.BackColor = SystemColors.GrayText;
+            btn_ThongKe.BackColor = SystemColors.GrayText;
+            btn_KhaiPha.BackColor = SystemColors.GrayText;
+            btn_SaoLuu.BackColor = SystemColors.GrayText;
+
             kiemtraquyen();
         }
 
@@ -110,6 +119,13 @@ namespace GUI
         {
             panel_TrangChu.Controls.Clear();
             US_SaoLuu gui = new US_SaoLuu();
+            panel_TrangChu.Controls.Add(gui);
+        }
+
+        private void btn_ThongKe_Click(object sender, EventArgs e)
+        {
+            panel_TrangChu.Controls.Clear();
+            US_ThongKe gui = new US_ThongKe();
             panel_TrangChu.Controls.Add(gui);
         }
     }

@@ -90,6 +90,7 @@
             // 
             // btn_QuenMatKhau
             // 
+            btn_QuenMatKhau.Enabled = false;
             btn_QuenMatKhau.Font = new Font("Segoe UI", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btn_QuenMatKhau.ForeColor = Color.Gray;
             btn_QuenMatKhau.Location = new Point(79, 309);

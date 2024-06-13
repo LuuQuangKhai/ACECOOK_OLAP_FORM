@@ -16,5 +16,10 @@ namespace BUS
         {
             return dao.SaoLuuDuLieu(duongDan,tenCSDL,tenFile);
         }
+
+        public string PhucHoiDuLieu(string duongDanPhucHoi, string tenCSDL)
+        {
+            return dao.PhucHoiDuLieu(duongDanPhucHoi, tenCSDL);
+        }
     }
 }

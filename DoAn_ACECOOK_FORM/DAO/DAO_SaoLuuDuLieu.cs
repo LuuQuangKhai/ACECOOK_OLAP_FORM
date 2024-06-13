@@ -26,12 +26,44 @@ namespace DAO
                         command.ExecuteNonQuery();
                     }
 
-                    return "Backup " + tenFile + " thành công!";
+                    return "Sao lưu dữ liệu thành công!";
                 }
             }
             catch (Exception ex)
             {
-                return "Lỗi trong quá trình backup: " + ex.Message;
+                return "Lỗi trong quá trình sao lưu: " + ex.Message;
+            }
+        }
+
+        public string PhucHoiDuLieu(string duongDanPhucHoi, string tenCSDL)
+        {
+            try
+            {
+                using (SqlConnection connection = new SqlConnection(myConnectionString))
+                {
+                    connection.Open();
+                    
+                    using (SqlCommand command = new SqlCommand($"ALTER DATABASE {tenCSDL} SET SINGLE_USER WITH ROLLBACK IMMEDIATE;", connection))
+                    {
+                        command.ExecuteNonQuery();
+                    }
+
+                    using (SqlCommand command = new SqlCommand($"USE MASTER RESTORE DATABASE {tenCSDL} FROM DISK = '{duongDanPhucHoi}' WITH REPLACE;", connection))
+                    {
+                        command.ExecuteNonQuery();
+                    }
+
+                    using (SqlCommand command = new SqlCommand($"ALTER DATABASE {tenCSDL} SET MULTI_USER;", connection))
+                    {
+                        command.ExecuteNonQuery();
+                    }
+
+                    return "Phục hồi dữ liệu thành công!";
+                }
+            }
+            catch (Exception ex)
+            {
+                return "Lỗi trong quá trình phục hồi: " + ex.Message;
             }
         }
     }

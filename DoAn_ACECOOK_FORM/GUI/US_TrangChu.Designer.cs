@@ -100,7 +100,7 @@
             // 
             // pictureBox1
             // 
-            pictureBox1.Image = Properties.Resources.dinosaur;
+            pictureBox1.Image = Properties.Resources.avata;
             pictureBox1.Location = new Point(7, 465);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(150, 150);
@@ -156,6 +156,7 @@
             btn_ThongKe.TextAlign = ContentAlignment.MiddleLeft;
             btn_ThongKe.TextImageRelation = TextImageRelation.ImageBeforeText;
             btn_ThongKe.UseVisualStyleBackColor = false;
+            btn_ThongKe.Click += btn_ThongKe_Click;
             // 
             // btn_PhanTich
             // 
