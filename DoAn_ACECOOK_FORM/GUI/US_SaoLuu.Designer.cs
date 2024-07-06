@@ -97,7 +97,7 @@
             // 
             cbo_ChonDuLieu.Font = new Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
             cbo_ChonDuLieu.FormattingEnabled = true;
-            cbo_ChonDuLieu.Items.AddRange(new object[] { "Tất cả dữ liệu hệ thống", "FORM", "WEB", "NDS", "DDS" });
+            cbo_ChonDuLieu.Items.AddRange(new object[] { "Tất cả dữ liệu hệ thống", "Cơ sở dữ liệu ứng dụng", "Cơ sở dữ liệu hệ thống web", "Kho dữ liệu chuẩn hóa", "Kho dữ liệu đa chiều" });
             cbo_ChonDuLieu.Location = new Point(251, 22);
             cbo_ChonDuLieu.Name = "cbo_ChonDuLieu";
             cbo_ChonDuLieu.Size = new Size(246, 33);

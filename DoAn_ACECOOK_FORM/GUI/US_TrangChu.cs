@@ -128,5 +128,19 @@ namespace GUI
             US_ThongKe gui = new US_ThongKe();
             panel_TrangChu.Controls.Add(gui);
         }
+
+        private void btn_NapDuLieu_Click(object sender, EventArgs e)
+        {
+            panel_TrangChu.Controls.Clear();
+            US_NapDuLieu gui = new US_NapDuLieu();
+            panel_TrangChu.Controls.Add(gui);
+        }
+
+        private void btn_KhaiPha_Click(object sender, EventArgs e)
+        {
+            panel_TrangChu.Controls.Clear();
+            US_KhaiPha gui = new US_KhaiPha();
+            panel_TrangChu.Controls.Add(gui);
+        }
     }
 }

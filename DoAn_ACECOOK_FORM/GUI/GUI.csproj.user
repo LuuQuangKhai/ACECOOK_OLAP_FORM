@@ -10,6 +10,12 @@
     <Compile Update="FORM_KhungTrang.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="US_KhaiPha.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="US_NapDuLieu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Update="US_PhanTich.cs">
       <SubType>UserControl</SubType>
     </Compile>

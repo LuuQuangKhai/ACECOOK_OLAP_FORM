@@ -42,9 +42,15 @@
             label1 = new Label();
             pictureBox2 = new PictureBox();
             panel_TrangChu = new Panel();
+            panel2 = new Panel();
+            label8 = new Label();
+            pictureBox3 = new PictureBox();
             panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
+            panel_TrangChu.SuspendLayout();
+            panel2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox3).BeginInit();
             SuspendLayout();
             // 
             // panel1
@@ -140,6 +146,7 @@
             btn_KhaiPha.TextAlign = ContentAlignment.MiddleLeft;
             btn_KhaiPha.TextImageRelation = TextImageRelation.ImageBeforeText;
             btn_KhaiPha.UseVisualStyleBackColor = false;
+            btn_KhaiPha.Click += btn_KhaiPha_Click;
             // 
             // btn_ThongKe
             // 
@@ -190,6 +197,7 @@
             btn_NapDuLieu.TextAlign = ContentAlignment.MiddleLeft;
             btn_NapDuLieu.TextImageRelation = TextImageRelation.ImageBeforeText;
             btn_NapDuLieu.UseVisualStyleBackColor = false;
+            btn_NapDuLieu.Click += btn_NapDuLieu_Click;
             // 
             // label2
             // 
@@ -227,10 +235,42 @@
             // 
             // panel_TrangChu
             // 
+            panel_TrangChu.Controls.Add(pictureBox3);
+            panel_TrangChu.Controls.Add(panel2);
             panel_TrangChu.Location = new Point(170, 3);
             panel_TrangChu.Name = "panel_TrangChu";
             panel_TrangChu.Size = new Size(1231, 700);
             panel_TrangChu.TabIndex = 1;
+            // 
+            // panel2
+            // 
+            panel2.BackColor = Color.Red;
+            panel2.Controls.Add(label8);
+            panel2.Location = new Point(4, 3);
+            panel2.Name = "panel2";
+            panel2.Size = new Size(1224, 88);
+            panel2.TabIndex = 3;
+            // 
+            // label8
+            // 
+            label8.AutoSize = true;
+            label8.Font = new Font("Segoe UI", 26.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label8.ForeColor = Color.White;
+            label8.Location = new Point(32, 18);
+            label8.Name = "label8";
+            label8.Size = new Size(1149, 47);
+            label8.TabIndex = 0;
+            label8.Text = "HỆ THỐNG PHÂN TÍCH DỮ LIỆU KINH DOANH ACECOOK VIỆT NAM";
+            // 
+            // pictureBox3
+            // 
+            pictureBox3.Image = Properties.Resources.Screenshot_2024_06_20_155311;
+            pictureBox3.Location = new Point(4, 97);
+            pictureBox3.Name = "pictureBox3";
+            pictureBox3.Size = new Size(1224, 600);
+            pictureBox3.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox3.TabIndex = 4;
+            pictureBox3.TabStop = false;
             // 
             // US_TrangChu
             // 
@@ -245,6 +285,10 @@
             panel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
+            panel_TrangChu.ResumeLayout(false);
+            panel2.ResumeLayout(false);
+            panel2.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox3).EndInit();
             ResumeLayout(false);
         }
 
@@ -264,5 +308,8 @@
         private PictureBox pictureBox1;
         private Label lbl_MaNhanVien;
         private Button btn_ThongTin;
+        private PictureBox pictureBox3;
+        private Panel panel2;
+        private Label label8;
     }
 }

@@ -57,6 +57,9 @@
             dataGridView_DanhSachNhanVien = new DataGridView();
             panel1 = new Panel();
             label8 = new Label();
+            label9 = new Label();
+            label10 = new Label();
+            label11 = new Label();
             groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)btn_Sua).BeginInit();
             ((System.ComponentModel.ISupportInitialize)btn_Xoa).BeginInit();
@@ -69,6 +72,9 @@
             // 
             // groupBox1
             // 
+            groupBox1.Controls.Add(label11);
+            groupBox1.Controls.Add(label10);
+            groupBox1.Controls.Add(label9);
             groupBox1.Controls.Add(btn_Sua);
             groupBox1.Controls.Add(btn_Xoa);
             groupBox1.Controls.Add(btn_Them);
@@ -383,6 +389,33 @@
             label8.TabIndex = 0;
             label8.Text = "CHỨC NĂNG QUẢN TRỊ NHÂN VIÊN";
             // 
+            // label9
+            // 
+            label9.AutoSize = true;
+            label9.Location = new Point(370, 266);
+            label9.Name = "label9";
+            label9.Size = new Size(39, 15);
+            label9.TabIndex = 18;
+            label9.Text = "Thêm";
+            // 
+            // label10
+            // 
+            label10.AutoSize = true;
+            label10.Location = new Point(435, 266);
+            label10.Name = "label10";
+            label10.Size = new Size(28, 15);
+            label10.TabIndex = 19;
+            label10.Text = "Xóa";
+            // 
+            // label11
+            // 
+            label11.AutoSize = true;
+            label11.Location = new Point(494, 266);
+            label11.Name = "label11";
+            label11.Size = new Size(28, 15);
+            label11.TabIndex = 20;
+            label11.Text = "Sửa";
+            // 
             // US_QuanTri
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
@@ -438,5 +471,8 @@
         private DataGridView dataGridView_DanhSachNhanVien;
         private Panel panel1;
         private Label label8;
+        private Label label11;
+        private Label label10;
+        private Label label9;
     }
 }

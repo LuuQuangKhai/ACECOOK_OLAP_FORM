@@ -36,16 +36,16 @@ namespace GUI
                     thongBao = bus.SaoLuuDuLieu(duongDan, "DB_ACECOOK_NDS", tenFile + "_NDS");
                     thongBao = bus.SaoLuuDuLieu(duongDan, "DB_ACECOOK_DDS", tenFile + "_DDS");
                     break;
-                case "FORM":
+                case "Cơ sở dữ liệu ứng dụng":
                     thongBao = bus.SaoLuuDuLieu(duongDan, "DB_ACECOOK_FORM", tenFile + "_FORM");
                     break;
-                case "WEB":
+                case "Cơ sở dữ liệu hệ thống web":
                     thongBao = bus.SaoLuuDuLieu(duongDan, "DB_ACECOOK_WEB", tenFile + "_WEB");
                     break;
-                case "NDS":
+                case "Kho dữ liệu chuẩn hóa":
                     thongBao = bus.SaoLuuDuLieu(duongDan, "DB_ACECOOK_NDS", tenFile + "_NDS");
                     break;
-                case "DDS":
+                case "Kho dữ liệu đa chiều":
                     thongBao = bus.SaoLuuDuLieu(duongDan, "DB_ACECOOK_DDS", tenFile + "_DDS");
                     break;
             }

@@ -73,3 +73,4 @@ C:\Users\luuca\Desktop\ACECOOK_OLAP_FORM\ACECOOK_OLAP_FORM\DoAn_ACECOOK_FORM\DAO
 C:\Users\luuca\Desktop\ACECOOK_OLAP_FORM\ACECOOK_OLAP_FORM\DoAn_ACECOOK_FORM\DAO\obj\Debug\net8.0\refint\DAO.dll
 C:\Users\luuca\Desktop\ACECOOK_OLAP_FORM\ACECOOK_OLAP_FORM\DoAn_ACECOOK_FORM\DAO\obj\Debug\net8.0\DAO.pdb
 C:\Users\luuca\Desktop\ACECOOK_OLAP_FORM\ACECOOK_OLAP_FORM\DoAn_ACECOOK_FORM\DAO\obj\Debug\net8.0\ref\DAO.dll
+C:\Users\luuca\Desktop\ACECOOK_OLAP_FORM\ACECOOK_OLAP_FORM\DoAn_ACECOOK_FORM\DAO\bin\Debug\net8.0\Microsoft.SqlServer.Management.IntegrationServices.dll

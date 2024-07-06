@@ -51,6 +51,14 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "dependencies": {
+            "Aspire.Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Aspose.Words": {
+              "target": "Package",
+              "version": "[24.6.0, )"
+            },
             "ClosedXML": {
               "target": "Package",
               "version": "[0.102.2, )"
@@ -59,21 +67,21 @@
               "target": "Package",
               "version": "[23.2.6, )"
             },
-            "DocumentFormat.OpenXml": {
-              "target": "Package",
-              "version": "[3.0.2, )"
-            },
             "MailKit": {
               "target": "Package",
               "version": "[4.6.0, )"
             },
             "Microsoft.AnalysisServices.AdomdClient.NetCore.retail.amd64": {
               "target": "Package",
-              "version": "[19.80.0, )"
+              "version": "[19.82.0, )"
             },
             "Microsoft.AnalysisServices.NetCore.retail.amd64": {
               "target": "Package",
-              "version": "[19.80.0, )"
+              "version": "[19.82.0, )"
+            },
+            "Microsoft.SqlServer.SqlManagementObjects": {
+              "target": "Package",
+              "version": "[171.30.0, )"
             },
             "MimeKit": {
               "target": "Package",

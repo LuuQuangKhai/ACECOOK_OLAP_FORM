@@ -3,32 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|c:\\users\\luuca\\desktop\\acecook_olap_form\\acecook_olap_form\\doan_acecook_form\\gui\\us_thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|solutionrelative:gui\\us_thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|c:\\users\\luuca\\desktop\\acecook_olap_form\\acecook_olap_form\\doan_acecook_form\\gui\\us_phantich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|solutionrelative:gui\\us_phantich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|c:\\users\\luuca\\desktop\\acecook_olap_form\\acecook_olap_form\\doan_acecook_form\\gui\\us_trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|solutionrelative:gui\\us_trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|c:\\users\\luuca\\desktop\\acecook_olap_form\\acecook_olap_form\\doan_acecook_form\\gui\\us_trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|solutionrelative:gui\\us_trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|c:\\users\\luuca\\desktop\\acecook_olap_form\\acecook_olap_form\\doan_acecook_form\\gui\\us_quantri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|solutionrelative:gui\\us_quantri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|c:\\users\\luuca\\desktop\\acecook_olap_form\\acecook_olap_form\\doan_acecook_form\\gui\\us_saoluu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|solutionrelative:gui\\us_saoluu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|c:\\users\\luuca\\desktop\\acecook_olap_form\\acecook_olap_form\\doan_acecook_form\\gui\\us_phantich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\gui\\us_phantich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|solutionrelative:gui\\us_phantich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|c:\\users\\luuca\\desktop\\acecook_olap_form\\acecook_olap_form\\doan_acecook_form\\gui\\us_phantich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|solutionrelative:gui\\us_phantich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|c:\\users\\luuca\\desktop\\acecook_olap_form\\acecook_olap_form\\doan_acecook_form\\gui\\us_napdulieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|solutionrelative:gui\\us_napdulieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|c:\\users\\luuca\\desktop\\acecook_olap_form\\acecook_olap_form\\doan_acecook_form\\gui\\us_napdulieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|solutionrelative:gui\\us_napdulieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|c:\\users\\luuca\\desktop\\acecook_olap_form\\acecook_olap_form\\doan_acecook_form\\gui\\gui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{08FEA64C-CF5B-4C50-9F21-9BE76483A719}|GUI\\GUI.csproj|solutionrelative:gui\\gui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,90 +30,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "US_TrangChu.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\GUI\\US_TrangChu.cs",
-              "RelativeDocumentMoniker": "GUI\\US_TrangChu.cs",
-              "ToolTip": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\GUI\\US_TrangChu.cs [Design]",
-              "RelativeToolTip": "GUI\\US_TrangChu.cs [Design]",
+              "Title": "US_NapDuLieu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\GUI\\US_NapDuLieu.cs",
+              "RelativeDocumentMoniker": "GUI\\US_NapDuLieu.cs",
+              "ToolTip": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\GUI\\US_NapDuLieu.cs [Design]",
+              "RelativeToolTip": "GUI\\US_NapDuLieu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T18:58:30.331Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "US_TrangChu.cs",
-              "DocumentMoniker": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\GUI\\US_TrangChu.cs",
-              "RelativeDocumentMoniker": "GUI\\US_TrangChu.cs",
-              "ToolTip": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\GUI\\US_TrangChu.cs",
-              "RelativeToolTip": "GUI\\US_TrangChu.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T18:55:28.747Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "US_ThongKe.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\GUI\\US_ThongKe.cs",
-              "RelativeDocumentMoniker": "GUI\\US_ThongKe.cs",
-              "ToolTip": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\GUI\\US_ThongKe.cs [Design]",
-              "RelativeToolTip": "GUI\\US_ThongKe.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T18:54:39.736Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "US_SaoLuu.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\GUI\\US_SaoLuu.cs",
-              "RelativeDocumentMoniker": "GUI\\US_SaoLuu.cs",
-              "ToolTip": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\GUI\\US_SaoLuu.cs [Design]",
-              "RelativeToolTip": "GUI\\US_SaoLuu.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T18:54:37.536Z",
+              "WhenOpened": "2024-07-06T00:31:23.691Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "US_QuanTri.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\GUI\\US_QuanTri.cs",
-              "RelativeDocumentMoniker": "GUI\\US_QuanTri.cs",
-              "ToolTip": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\GUI\\US_QuanTri.cs [Design]",
-              "RelativeToolTip": "GUI\\US_QuanTri.cs [Design]",
+              "Title": "US_NapDuLieu.cs",
+              "DocumentMoniker": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\GUI\\US_NapDuLieu.cs",
+              "RelativeDocumentMoniker": "GUI\\US_NapDuLieu.cs",
+              "ToolTip": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\GUI\\US_NapDuLieu.cs",
+              "RelativeToolTip": "GUI\\US_NapDuLieu.cs",
+              "ViewState": "AgIAAO4AAAAAAAAAAAAgwDsBAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T18:54:25.779Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-07-06T00:29:28.116Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
+              "Title": "GUI.csproj",
+              "DocumentMoniker": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\GUI\\GUI.csproj",
+              "RelativeDocumentMoniker": "GUI\\GUI.csproj",
+              "ToolTip": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\GUI\\GUI.csproj",
+              "RelativeToolTip": "GUI\\GUI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-05T21:34:39.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "US_PhanTich.cs",
               "DocumentMoniker": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\GUI\\US_PhanTich.cs",
               "RelativeDocumentMoniker": "GUI\\US_PhanTich.cs",
               "ToolTip": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\GUI\\US_PhanTich.cs",
               "RelativeToolTip": "GUI\\US_PhanTich.cs",
+              "ViewState": "AgIAAGkEAAAAAAAAAAAkwIQEAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T18:39:09.454Z",
+              "WhenOpened": "2024-07-05T20:09:58.775Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "US_PhanTich.cs [Design]",
               "DocumentMoniker": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\GUI\\US_PhanTich.cs",
               "RelativeDocumentMoniker": "GUI\\US_PhanTich.cs",
               "ToolTip": "C:\\Users\\luuca\\Desktop\\ACECOOK_OLAP_FORM\\ACECOOK_OLAP_FORM\\DoAn_ACECOOK_FORM\\GUI\\US_PhanTich.cs [Design]",
               "RelativeToolTip": "GUI\\US_PhanTich.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T18:35:11.262Z",
+              "WhenOpened": "2024-07-05T19:46:36.513Z",
               "EditorCaption": " [Design]"
             }
           ]
